@@ -1,4 +1,4 @@
-# Darkbox
+# Darkbox Theme
 
 An even darker version of the Gruvbox theme for Visual Studio Code.
 
@@ -6,13 +6,9 @@ An even darker version of the Gruvbox theme for Visual Studio Code.
 
 A darker [Gruvbox](https://github.com/morhetz/gruvbox) theme including syntax highlighting and workbench & terminal colors.
 
-## Installation
+### Screenshot
 
-Coming soon!
-
-### Screenshots
-
-Coming soon!
+[screenshot](https://raw.githubusercontent.com/grunge4lyfe/vscode-darkbox/trunk/images/screenshot.png)
 
 ## Credits
 
