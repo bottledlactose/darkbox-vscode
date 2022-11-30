@@ -1,3 +1,7 @@
+![version](https://vsmarketplacebadge.apphb.com/version/grunge4lyfe.darkbox.svg)
+![installs](https://vsmarketplacebadge.apphb.com/installs/grunge4lyfe.darkbox.svg)
+![rating](https://vsmarketplacebadge.apphb.com/rating-short/grunge4lyfe.darkbox.svg)
+
 # Darkbox Theme
 
 An even darker version of the [Gruvbox](https://github.com/morhetz/gruvbox) theme for Visual Studio Code, including syntax highlighting and workbench & terminal colors.
