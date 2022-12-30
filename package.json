@@ -2,7 +2,7 @@
   "name": "darkbox",
   "displayName": "Darkbox Theme",
   "description": "An even darker version of the Gruvbox theme for Visual Studio Code.",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "author": "grunge4lyfe (https://github.com/grunge4lyfe)",
   "publisher": "grunge4lyfe",
   "engines": {
