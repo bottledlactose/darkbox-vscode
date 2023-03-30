@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darkbox (Default)",
+        "label": "Darkbox",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox.json"
       },
@@ -34,19 +34,9 @@
         "path": "./themes/darkbox-darker.json"
       },
       {
-        "label": "Darkbox (Darkest)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox-darkest.json"
-      },
-      {
         "label": "Darkbox (Lighter)",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox-lighter.json"
-      },
-      {
-        "label": "Darkbox (GitHub)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox-github.json"
       }
     ]
   }
