@@ -1,12 +1,12 @@
 {
   "name": "darkbox",
   "displayName": "Darkbox Theme",
-  "description": "An even darker version of the Gruvbox theme for Visual Studio Code.",
+  "description": "A darker version of the 'retro groove' Vim color theme.",
   "version": "1.1.3",
-  "author": "grunge4lyfe (https://github.com/grunge4lyfe)",
-  "publisher": "grunge4lyfe",
+  "author": "bottledlactose (https://github.com/bottledlactose)",
+  "publisher": "bottledlactose",
   "engines": {
-    "vscode": "^1.67.2"
+    "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
@@ -16,10 +16,10 @@
     "color": "#3c3836",
     "theme": "dark"
   },
-  "homepage": "https://github.com/grunge4lyfe/vscode-darkbox",
+  "homepage": "https://github.com/bottledlactose/vscode-darkbox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grunge4lyfe/vscode-darkbox.git"
+    "url": "https://github.com/bottledlactose/vscode-darkbox.git"
   },
   "contributes": {
     "themes": [
@@ -49,22 +49,5 @@
         "path": "./themes/darkbox-github.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8",
-    "publisherDisplayName": "grunge4lyfe",
-    "publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
-  },
-  "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
-    "ovsx": "^0.5.0",
-    "semantic-release": "^19.0.3",
-    "vsce": "^2.9.0"
-  },
-  "private": true,
-  "scripts": {
-    "semantic-release": "semantic-release"
-  },
-  "license": "MIT"
+  }
 }
