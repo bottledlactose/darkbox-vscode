@@ -1,12 +1,12 @@
 {
   "name": "darkbox",
   "displayName": "Darkbox Theme",
-  "description": "A darker version of the retro groove Vim color theme.",
+  "description": "A darker version of the Gruvbox Vim theme.",
   "version": "1.2.0",
   "author": "bottledlactose (https://github.com/bottledlactose)",
   "publisher": "bottledlactose",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
