@@ -73,10 +73,10 @@
     "sideBarSectionHeader.foreground": "#ebdbb2",
     // ACTIVITY BAR
     "activityBar.activeBorder": "#fe8019",
-    "activityBar.background": "#060606",
+    "activityBar.background": "#040404",
     "activityBar.foreground": "#ebdbb2",
     "activityBar.border": "#3c3836",
-    "activityBar.inactiveForeground": "#ffffff80",
+    "activityBar.inactiveForeground": "#a89984",
 		"activityBarBadge.background": "#fe8019",
     "activityBarBadge.foreground": "#ebdbb2",
     // EDITOR GROUPS
