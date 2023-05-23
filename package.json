@@ -24,19 +24,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darkbox",
+        "label": "Darkbox (Legacy)",
         "uiTheme": "vs-dark",
-        "path": "./themes/darkbox.json"
-      },
-      {
-        "label": "Darkbox (Darker)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox-darker.json"
-      },
-      {
-        "label": "Darkbox (Lighter)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox-lighter.json"
+        "path": "./themes/darkbox-legacy.json"
       }
     ]
   }
