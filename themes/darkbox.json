@@ -15,7 +15,7 @@
     // BUTTON
     "button.background": "#fe8019",
 		"button.border": "#ffffff12",
-		"button.foreground": "#ebdbb2",
+		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#fe8019e6",
 		"button.secondaryBackground": "#ffffff0f",
 		"button.secondaryForeground": "#ebdbb2",
@@ -87,7 +87,6 @@
     "editorGroupHeader.tabsBorder": "#ffffff15",
     // TABS
     "tab.border": "#ffffff15",
-    "tab.activeBorder": "#689d6a",
     "tab.activeBackground": "#32302f",
     "tab.activeForeground": "#ebdbb2",
     "tab.inactiveForeground": "#ffffff80",
