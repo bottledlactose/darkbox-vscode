@@ -8,7 +8,7 @@ A darker version of the retro groove Vim color theme for Visual Studio Code, inc
 
 ![screenshot](https://raw.githubusercontent.com/bottledlactose/vscode-darkbox/develop/images/screenshot.png)
 
-# Changelog
+## Changelog
 
 Below sums up a list of changes made for v1.3:
 
