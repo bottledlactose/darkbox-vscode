@@ -14,6 +14,12 @@ A darker version of the Gruvbox Vim theme for Visual Studio Code, including synt
 - Removed "Darker" and "Lighter" theme
 - Renamed Darkbox theme to Darkbox (Legacy) in-editor
 
+### Latest fixes (v1.3.5)
+
+- Improved bad color contrast/poorly translated color values;
+- Fixed orange badge and button contrast (i.e. made the foreground color black instead of white);
+- Brightened the editor to provide more contrast between editor and surrounding UI
+
 ## Credits
 
 Special thanks to the original creator of [Gruvbox](https://github.com/morhetz/gruvbox) and the [original VS Code theme](https://github.com/jdinhify/vscode-theme-gruvbox) which this project was forked from.
