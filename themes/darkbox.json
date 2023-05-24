@@ -89,11 +89,11 @@
     "tab.border": "#ffffff15",
     "tab.activeBackground": "#32302f",
     "tab.activeForeground": "#ebdbb2",
-    "tab.inactiveForeground": "#ffffff80",
+    "tab.inactiveForeground": "#a89984",
     "tab.inactiveBackground": "#040404",
     "tab.unfocusedActiveForeground": "#a89984",
     "tab.unfocusedActiveBorder": "#1f1f1f",
-    "tab.unfocusedInactiveForeground": "#928374",
+    "tab.unfocusedInactiveForeground": "#a89984",
     "tab.activeBorderTop": "#fe8019",
     "tab.hoverBackground": "#1f1f1f",
     "tab.lastPinnedBorder": "#ebdbb233",
@@ -198,7 +198,7 @@
     "panelTitle.activeForeground": "#ebdbb2",
 		"panelInput.border": "#ffffff15",
 		"panelTitle.activeBorder": "#fe8019",
-		"panelTitle.inactiveForeground": "#8b949e",
+		"panelTitle.inactiveForeground": "#a89984",
     // STATUS BAR
     "statusBar.background": "#040404",
     "statusBar.border": "#ffffff15",
@@ -274,7 +274,7 @@
 		"checkbox.background": "#313131",
 		"checkbox.border": "#ffffff1f",
     // QUICK INPUT
-    "quickInput.background": "#1f1f1f",
+    "quickInput.background": "#040404",
 		"quickInput.foreground": "#ebdbb2",
     // OTHERS
     "textLink.foreground": "#83a598",
