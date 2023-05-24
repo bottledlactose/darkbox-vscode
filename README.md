@@ -4,6 +4,7 @@
 ![Visual Studio Marketplace Release Date](https://img.shields.io/visual-studio-marketplace/release-date/bottledlactose.darkbox)
 ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/bottledlactose.darkbox)
 
+<br />
 <p align="center">
   <img src="https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/icon.png" alt="icon" />
 </p>
