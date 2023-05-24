@@ -18,7 +18,8 @@ A darker version of the Gruvbox Vim theme for Visual Studio Code, including synt
 
 - Improved bad color contrast/poorly translated color values;
 - Fixed orange badge and button contrast (i.e. made the foreground color black instead of white);
-- Brightened the editor to provide more contrast between editor and surrounding UI
+- Brightened the editor to provide more contrast between editor and surrounding UI;
+- Disabled orange active selection border for less distraction
 
 ## Credits
 
