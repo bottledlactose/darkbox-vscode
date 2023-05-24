@@ -4,13 +4,11 @@
 
 # Darkbox Theme
 
-A darker version of the retro groove Vim color theme for Visual Studio Code, including syntax highlighting and workbench & terminal colors.
+A darker version of the Gruvbox Vim theme for Visual Studio Code, including syntax highlighting and workbench & terminal colors.
 
 ![screenshot](https://raw.githubusercontent.com/bottledlactose/vscode-darkbox/develop/images/screenshot.png)
 
-## Changelog
-
-Below sums up a list of changes made for v1.3:
+## Changelog (v1.3)
 
 - Added a theme based on the new modern Visual Studio dark theme
 - Removed "Darker" and "Lighter" theme
