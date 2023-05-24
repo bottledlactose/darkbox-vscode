@@ -1,6 +1,6 @@
-![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/bottledlactose.darkbox)
-
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/bottledlactose.darkbox)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/bottledlactose.darkbox)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/bottledlactose.darkbox)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/icon.png" alt="icon" />
