@@ -53,7 +53,7 @@
     "progressBar.background": "#fe8019",
     // LISTS AND TREES
     "list.activeSelectionBackground": "#3c383680",
-    "list.activeSelectionForeground": "#a89984",
+    "list.activeSelectionForeground": "#ebdbb2",
     "list.hoverBackground": "#3c383680",
     "list.hoverForeground": "#d5c4a1",
     "list.focusBackground": "#3c3836",
