@@ -23,12 +23,14 @@ The plugin can be easily installed through the [Visual Studio marketplace](https
 - Removed "Darker" and "Lighter" theme
 - Renamed Darkbox theme to Darkbox (Legacy) in-editor
 
-### Latest fixes (v1.3.5)
+### Latest fixes (v1.3.7)
 
 - Improved bad color contrast/poorly translated color values;
 - Fixed orange badge and button contrast (i.e. made the foreground color black instead of white);
 - Brightened the editor to provide more contrast between editor and surrounding UI;
-- Disabled orange active selection border for less distraction
+- Disabled orange active selection border for less distraction;
+- Updated suggest widget for better visibility when choosing a suggest;
+- Change current selection in list views for easier visibility
 
 ## Credits
 
