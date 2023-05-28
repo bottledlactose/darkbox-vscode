@@ -15,7 +15,7 @@
     // BUTTON
     "button.background": "#fe8019",
 		"button.border": "#ffffff12",
-		"button.foreground": "#000000",
+		"button.foreground": "#040404",
 		"button.hoverBackground": "#fe8019e6",
 		"button.secondaryBackground": "#ffffff0f",
 		"button.secondaryForeground": "#ebdbb2",
@@ -48,7 +48,7 @@
     "scrollbarSlider.background": "#50494599",
     // BADGE
     "badge.background": "#fe8019",
-		"badge.foreground": "#000000",
+		"badge.foreground": "#040404",
     // PROGRESS BAR
     "progressBar.background": "#fe8019",
     // LISTS AND TREES
@@ -78,7 +78,7 @@
     "activityBar.border": "#3c3836",
     "activityBar.inactiveForeground": "#a89984",
 		"activityBarBadge.background": "#fe8019",
-    "activityBarBadge.foreground": "#000000",
+    "activityBarBadge.foreground": "#040404",
     // EDITOR GROUPS
     "editorGroup.border": "#ffffff17",
     "editorGroup.dropBackground": "#3c383660",
@@ -213,7 +213,7 @@
     "statusBarItem.focusBorder": "#fe8019",
 		"statusBarItem.prominentBackground": "#6e768166",
 		"statusBarItem.remoteBackground": "#fe8019",
-		"statusBarItem.remoteForeground": "#000000",
+		"statusBarItem.remoteForeground": "#040404",
     // INTEGRATED TERMINAL
     "terminal.ansiBlack": "#3c3836",
     "terminal.ansiBrightBlack": "#928374",
