@@ -17,20 +17,11 @@ A darker version of the Gruvbox Vim theme for Visual Studio Code, including synt
 
 The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)!
 
-## Changelog (v1.3)
+## Changelog (v1.4)
 
-- Added a theme based on the new modern Visual Studio dark theme
-- Removed "Darker" and "Lighter" theme
-- Renamed Darkbox theme to Darkbox (Legacy) in-editor
-
-### Latest fixes (v1.3.7)
-
-- Improved bad color contrast/poorly translated color values;
-- Fixed orange badge and button contrast (i.e. made the foreground color black instead of white);
-- Brightened the editor to provide more contrast between editor and surrounding UI;
-- Disabled orange active selection border for less distraction;
-- Updated suggest widget for better visibility when choosing a suggest;
-- Change current selection in list views for easier visibility
+- Removed Darkbox (Legacy) theme
+- Updated package information (bug reports, repository URL)
+- Renamed editor index guide properties according to new standards
 
 ## Credits
 
