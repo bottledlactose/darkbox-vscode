@@ -21,6 +21,10 @@
     "type": "git",
     "url": "https://github.com/bottledlactose/darkbox.git"
   },
+  "bugs": {
+    "url": "https://github.com/bottledlactose/darkbox/issues",
+    "email": "bottledlactose@gmail.com"
+  },
   "contributes": {
     "themes": [
       {
