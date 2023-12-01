@@ -31,11 +31,6 @@
         "label": "Darkbox",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox.json"
-      },
-      {
-        "label": "Darkbox (Legacy)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox-legacy.json"
       }
     ]
   }
