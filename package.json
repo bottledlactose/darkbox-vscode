@@ -16,10 +16,10 @@
     "color": "#3c3836",
     "theme": "dark"
   },
-  "homepage": "https://github.com/bottledlactose/vscode-darkbox",
+  "homepage": "https://github.com/bottledlactose/darkbox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bottledlactose/vscode-darkbox.git"
+    "url": "https://github.com/bottledlactose/darkbox.git"
   },
   "contributes": {
     "themes": [

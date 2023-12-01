@@ -13,7 +13,7 @@
 
 A darker version of the Gruvbox Vim theme for Visual Studio Code, including syntax highlighting and workbench & terminal colors.
 
-![screenshot](https://raw.githubusercontent.com/bottledlactose/vscode-darkbox/develop/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/screenshot.png)
 
 The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)!
 
