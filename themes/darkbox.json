@@ -278,6 +278,13 @@
     // QUICK INPUT
     "quickInput.background": "#040404",
 		"quickInput.foreground": "#ebdbb2",
+    // COMMAND CENTER
+    "commandCenter.background": "#040404",
+    "commandCenter.border": "#ffffff15",
+    "commandCenter.activeBackground": "#141414",
+    "commandCenter.activeForeground": "#ebdbb2",
+    "commandCenter.inactiveBorder": "#1b1b1b",
+    "commandCenter.inactiveForeground": "#a89984",
     // OTHERS
     "textLink.foreground": "#83a598",
     "textLink.activeForeground": "#458588",
