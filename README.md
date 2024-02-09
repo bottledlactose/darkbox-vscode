@@ -11,17 +11,27 @@
 
 # Darkbox Theme
 
-A darker version of the Gruvbox Vim theme for Visual Studio Code, including syntax highlighting and workbench & terminal colors.
+A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme, including syntax highlighting and workbench & terminal colors.
 
 ![screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/screenshot.png)
 
-The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)!
+The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox).
 
-## Changelog (v1.4)
+Alternatively, you may install the theme by downloading the VSIX file through the [GitHub releases page](https://github.com/bottledlactose/darkbox/releases) by using the following command:
+```
+code --install-extension darkbox.vsix
+```
 
-- Removed Darkbox (Legacy) theme
-- Updated package information (bug reports, repository URL)
-- Renamed editor index guide properties according to new standards
+If you run into any problems using this extension, please open an issue on the [GitHub issues page](https://github.com/bottledlactose/darkbox/issues).
+
+## Changelog (v1.5)
+
+- Made non-editor orange theme color less distracting
+- Darkened the widgets and dropdowns to match the status bar
+- Made the editor background even darker
+- Decreased contrast between docks and editor for less distraction
+- Decreased indent line contrast for less distraction
+- Made command bar at the top less distracting
 
 ## Credits
 
