@@ -31,6 +31,11 @@
         "label": "Darkbox",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox.json"
+      },
+      {
+        "label": "Darkbox (Modern)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkbox-modern.json"
       }
     ]
   }
