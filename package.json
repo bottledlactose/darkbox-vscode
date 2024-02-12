@@ -33,9 +33,14 @@
         "path": "./themes/darkbox.json"
       },
       {
-        "label": "Darkbox (Modern)",
+        "label": "Darkbox (Modern) (Beta)",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox-modern.json"
+      },
+      {
+        "label": "Darkbox (Modern Soft) (Beta)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkbox-modern-soft.json"
       }
     ]
   }
