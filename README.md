@@ -24,7 +24,13 @@ code --install-extension darkbox.vsix
 
 If you run into any problems using this extension, please open an issue on the [GitHub issues page](https://github.com/bottledlactose/darkbox/issues).
 
-## Changelog (v1.5)
+## Changelog
+
+### v1.5.3
+
+- Added "Modern" and "Modern Soft" experimental themes
+
+### v1.5
 
 - Made non-editor orange theme color less distracting
 - Darkened the widgets and dropdowns to match the status bar
