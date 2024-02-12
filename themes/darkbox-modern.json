@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Darkbox (Modern) (Beta)",
+  "name": "Darkbox (Modern) (Experimental)",
   "type": "dark",
   "colors": {
     // BASE COLORS
