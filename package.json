@@ -2,7 +2,7 @@
   "name": "darkbox",
   "displayName": "Darkbox Theme",
   "description": "A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme.",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "author": "bottledlactose (https://github.com/bottledlactose)",
   "publisher": "bottledlactose",
   "engines": {
