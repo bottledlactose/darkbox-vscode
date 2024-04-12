@@ -28,19 +28,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darkbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darkbox.json"
-      },
-      {
-        "label": "Darkbox (Modern) (Experimental)",
+        "label": "Darkbox (Modern)",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox-modern.json"
       },
       {
-        "label": "Darkbox (Modern Soft) (Experimental)",
+        "label": "Darkbox (Modern Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/darkbox-modern-soft.json"
+      },
+      {
+        "label": "Darkbox (Legacy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkbox-legacy.json"
       }
     ]
   }
