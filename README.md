@@ -6,23 +6,23 @@
 
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/icon.png" alt="icon" />
+  <img src="https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/develop/images/icon.png" alt="icon" />
 </p>
 
 # Darkbox Theme
 
 A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme, including syntax highlighting and workbench & terminal colors.
 
-![screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox/develop/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/develop/images/screenshot.png)
 
 The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox).
 
-Alternatively, you may install the theme by downloading the VSIX file through the [GitHub releases page](https://github.com/bottledlactose/darkbox/releases) by using the following command:
+Alternatively, you may install the theme by downloading the VSIX file through the [GitHub releases page](https://github.com/bottledlactose/darkbox-vscode/releases) by using the following command:
 ```
 code --install-extension darkbox.vsix
 ```
 
-If you run into any problems using this extension, please open an issue on the [GitHub issues page](https://github.com/bottledlactose/darkbox/issues).
+If you run into any problems using this extension, please open an issue on the [GitHub issues page](https://github.com/bottledlactose/darkbox-vscode/issues).
 
 ## Changelog
 
