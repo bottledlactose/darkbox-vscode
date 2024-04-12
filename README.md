@@ -27,18 +27,10 @@ If you run into any problems using this extension, please open an issue on the [
 
 ## Changelog
 
-### v1.5.3
+### v1.6
 
-- Added "Modern" and "Modern Soft" experimental themes
-
-### v1.5
-
-- Made non-editor orange theme color less distracting
-- Darkened the widgets and dropdowns to match the status bar
-- Made the editor background even darker
-- Decreased contrast between docks and editor for less distraction
-- Decreased indent line contrast for less distraction
-- Made command bar at the top less distracting
+- Moved experimental themes to become new default to comply with modern VS Code theming standards (based on the new default VS Code theme)
+- Moved 1.5 theme to legacy state, meaning it will no longer be updated with new theming options
 
 ## Credits
 
