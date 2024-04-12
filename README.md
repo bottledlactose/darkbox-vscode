@@ -11,7 +11,7 @@
 
 # Darkbox Theme
 
-A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme, including syntax highlighting and workbench & terminal colors.
+A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme for Visual Studio Code, including syntax highlighting and workbench and terminal colors.
 
 ![screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/develop/images/screenshot.png)
 
