@@ -73,7 +73,7 @@
     "sideBarSectionHeader.foreground": "#ebdbb2",
     // ACTIVITY BAR
     "activityBar.activeBorder": "#ebdbb2",
-    "activityBar.background": "#181818",
+    "activityBar.background": "#141414",
     "activityBar.foreground": "#ebdbb2",
     "activityBar.border": "#3c3836",
     "activityBar.inactiveForeground": "#a89984",
@@ -95,7 +95,7 @@
     "tab.unfocusedActiveBorder": "#1f1f1f",
     "tab.unfocusedInactiveForeground": "#a89984",
     "tab.activeBorderTop": "#fe8019",
-    "tab.hoverBackground": "#181818",
+    "tab.hoverBackground": "#141414",
     "tab.lastPinnedBorder": "#ebdbb233",
     "tab.unfocusedActiveBorderTop": "#ffffff15",
 		"tab.unfocusedHoverBackground": "#6e76811a",
@@ -281,7 +281,7 @@
     // COMMAND CENTER
     "commandCenter.background": "#141414",
     "commandCenter.border": "#ffffff15",
-    "commandCenter.activeBackground": "#181818",
+    "commandCenter.activeBackground": "#141414",
     "commandCenter.activeForeground": "#ebdbb2",
     "commandCenter.inactiveBorder": "#1b1b1b",
     "commandCenter.inactiveForeground": "#a89984",
