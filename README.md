@@ -11,21 +11,24 @@
 
 # Darkbox Theme
 
-A simplistic and distraction-free color theme based on the retro-style Gruvbox Vim and Neovim theme for Visual Studio Code, including syntax highlighting and workbench and terminal colors.
+Darkbox is a distraction-free, retro-style color theme inspired by the popular Gruvbox theme for Vim and Neovim. It features the original syntax highlighting and cohesive workbench and terminal colors to enhance your coding experience in Visual Studio Code.
 
-![Darkbox Modern](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/trunk/images/darkbox-modern.png)
-![Darkbox Modern Soft](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/trunk/images/darkbox-modern-soft.png)
+![Darkbox Modern screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/trunk/images/darkbox-modern.png)
+![Darkbox Modern Soft screenshot](https://raw.githubusercontent.com/bottledlactose/darkbox-vscode/trunk/images/darkbox-modern-soft.png)
 
-The plugin can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox).
+The extension can be easily installed through the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox).
 
-Alternatively, you may install the theme by downloading the VSIX file through the [GitHub releases page](https://github.com/bottledlactose/darkbox-vscode/releases) by using the following command:
-```
-code --install-extension darkbox.vsix
-```
-
-If you run into any problems using this extension, please open an issue on the [GitHub issues page](https://github.com/bottledlactose/darkbox-vscode/issues).
+If you run into any problems using this theme or if you would like to make a suggestion, please [open an issue](https://github.com/bottledlactose/darkbox-vscode/issues).
 
 ## Changelog
+
+### v1.6.1
+
+- Added a Rust code example
+- Removed slight sidebar section header contrast
+- Fixed up color difference between editor and terminal in the Modern theme
+- Fixed slight color variation in some elements
+- Decrease line highlight selector contrast
 
 ### v1.6
 
@@ -34,4 +37,4 @@ If you run into any problems using this extension, please open an issue on the [
 
 ## Credits
 
-Special thanks to the original creator of [Gruvbox](https://github.com/morhetz/gruvbox) and the [original VS Code theme](https://github.com/jdinhify/vscode-theme-gruvbox) which this project was forked from.
+Special thanks to the original creator of [Gruvbox](https://github.com/morhetz/gruvbox) and the [Gruvbox VS Code theme](https://github.com/jdinhify/vscode-theme-gruvbox) which this project was forked from.
