@@ -68,7 +68,7 @@
     "sideBar.foreground": "#d5c4a1",
     "sideBar.border": "#ffffff15",
     "sideBarTitle.foreground": "#ebdbb2",
-    "sideBarSectionHeader.background": "#111111",
+    "sideBarSectionHeader.background": "#141414",
     "sideBarSectionHeader.border": "#ffffff15",
     "sideBarSectionHeader.foreground": "#ebdbb2",
     // ACTIVITY BAR
